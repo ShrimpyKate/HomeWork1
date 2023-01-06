@@ -12,8 +12,7 @@ else
   {
   min = a; max = b;
   }
-
-
+  
 Console.Write( "max =");
 Console.WriteLine( max );
 Console.Write( "min =");
